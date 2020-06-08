@@ -27,7 +27,7 @@ While making this map, I also learned some new historic knowlagede about the Can
 
 Besides, I got a lovely story map.
 
-I love this websites. I feel like it is such an useful tool for both history and geography. 
+I enjoy using this  websites, and it is such an useful tool for both history and geography. 
 
 here is my link:
 
