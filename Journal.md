@@ -12,6 +12,11 @@ Creating a storymap provides me with a great experience of using digital tools t
 
 It is also a helpful tool that I can use in the future. 
 
+The digital tools I learned this time are all things I have never heard of and used.
+and the process of learning and using them is very interesting. It is not complicated to use, but it enables me to create real things.
+
+
+
 
 
 
