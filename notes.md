@@ -15,5 +15,23 @@ The data showed on the second column of "sonifiction-roman-data" are 80 128 128 
 So the sound column is going down and up with the trend of the number. 
 
 
-Mapping
+StoryMaps
+
+StoryMap is a very interesting website that can make a slide show with websites on a map. 
+
+I decidede to do mine with the theme about importanat historic moment in Canada.
+
+I started with "Norse Explorers meet Indigenos Peoples" and ended with "The Canadian Charter of Rights and Freedoms".
+
+While making this map, I also learned some new historic knowlagede about the Canadian history. 
+
+Besides, I got a lovely story map.
+
+I love this websites. I feel like it is such an useful tool for both history and geography. 
+
+here is my link:
+
+<iframe src="https://uploads.knightlab.com/storymapjs/34b60ab3e2887277f9ab5c3526fe0c98/digh3814o/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+
 
